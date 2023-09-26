@@ -1,0 +1,144 @@
+[[LAST]]
+arch = "aarch64"
+git-tree-sha1 = "663d0b97ab4f45e34011044a37d0a7ffa44d6cd6"
+os = "macos"
+
+    [[LAST.download]]
+    sha256 = "90782f0f1d1ae7e5e5f452a39fd2098b34848732a2bc17808749c734ec14d26c"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.aarch64-apple-darwin.tar.gz"
+[[LAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c9f58b5bdcda416bd02d899c376d9c4df0a0c9b3"
+libc = "glibc"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "4acb6b8f067d04abc2ccdc70e275cbd2183e57737902dd68cc61e6a7e19fd5cc"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da11ffe858f1cd1c97ca163af8fd54eaa89355f2"
+libc = "glibc"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "b7e192c484d7fa08bb85f499853b5efecf486352ab88fc85a4150e57c1b3f28b"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf1dacd852599ed55d2ac55255998232be3284ea"
+libc = "musl"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "6d9e853e1db347e9a33f80cd7bbedf39dad19ee05142ad2fef6685d5cbaef4b5"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LAST]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "412ca98bf0be1dc585645a8419319edf44ff1132"
+libc = "musl"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "b826c7faee28e28b47eb29d461fe9a0e583c17d2b5848ee5473b990d868af49f"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "67d27b2b353595587f35b8918a3c8bf97c353025"
+libc = "glibc"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "1a549cdfc3fcf52c2f358b3a977e0d075e11c3b0058b514d556a012f6972d13d"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[LAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4246a99c565c95f478d75e9c5268c64ffea35797"
+libc = "glibc"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "dba4eaf646f787bc607c8ffab4f09423b6247486249f391916aa423dd30a05e4"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[LAST]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ff44a37b5bb459b3a3330e8d86e9f127196dc119"
+libc = "musl"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "426590853fc220b82da0d071cad5ba3eb2b600170f9ef4b9067248c9f90f901f"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.i686-linux-musl-cxx03.tar.gz"
+[[LAST]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "808ad0a6a42a448ea3c2fee06ee27543792518d2"
+libc = "musl"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "0de081f39d0f38412244a2ea0333b2ad7c3459f7185c8d2c68af8674a0bafd89"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.i686-linux-musl-cxx11.tar.gz"
+[[LAST]]
+arch = "x86_64"
+git-tree-sha1 = "0fae9c4882f18ff373089a0bb0a6e6909f600c47"
+os = "macos"
+
+    [[LAST.download]]
+    sha256 = "24cc42ca244c7ec081676a250bad9b219c4ad250eab7d7146b80bfe5841a2c81"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.x86_64-apple-darwin.tar.gz"
+[[LAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ccae5107c315ef7a91e08c2999c61f7214df9bef"
+libc = "glibc"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "abfcacf9384a1968fab9153b018306929ffc47d74f1b79a85970190d82fcc7b2"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ea3c4a6734fc3cdd4f997cfaaecbd732eaef7df"
+libc = "glibc"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "d697be34bc922633e999f8516c669d9c2115f4f73b56e9bc4a3014e40a2615c9"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9da1d9a82bbab1aa05ceea5f026e0d0431adb7bf"
+libc = "musl"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "d127967e0a7e04f21f8ec1f0c7a29ba05eb9f5946fbb9e171d0fec5de9f7e0ef"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LAST]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02cbf2b56c0a2236208345b5be1dbf18edceb8f2"
+libc = "musl"
+os = "linux"
+
+    [[LAST.download]]
+    sha256 = "0749df00ed5e2f2fef0a10c31020566b261f58e795005e72f9a3785d0215cbc4"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LAST]]
+arch = "x86_64"
+git-tree-sha1 = "79d25dedca749fd5c94490b6439c797050c66042"
+os = "freebsd"
+
+    [[LAST.download]]
+    sha256 = "43579a0d4a45157c8a4a62cbd9e86333e5b78542b0ed7b71c191a599941f1250"
+    url = "https://github.com/JuliaBinaryWrappers/LAST_jll.jl/releases/download/LAST-v1499.0.0+0/LAST.v1499.0.0.x86_64-unknown-freebsd.tar.gz"
